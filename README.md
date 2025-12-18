@@ -3,7 +3,7 @@ unico sotto sito di test prodotto dal worker in cloudflare
 
 sgcreaartistastatic
 
-invocazione tramite main/action
+invocazione tramite spaziogenesi main/action
 
 ricostruisci_artista.yml
 
